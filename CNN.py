@@ -8,7 +8,6 @@ Code to train and test a Convolutional Neural Network to recognize activities
 Designed for CMPT884 class and for later use in masters thesis
 
 HOW TO RUN
- start with fresh run of script (clear all variables and re-start kernel)
  optimize(num_iterations=#) - Can start small, check accuracy and then keep going from there
  check_accuracy(show_cm=True) - shows accuracy and CM of current state of network
  plot_solutions() - shows results on a plot
